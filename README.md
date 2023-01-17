@@ -1,5 +1,5 @@
 # Trends-in-Common-Male-Names-using-Gephi
-Trends in Common Male Names using Gephi
+
 A name is a powerful thing. It is a crucial factor in developing your sense of self.
 It is a descriptor that allows people to make quick judgments and assumptions about us.
 When a new person introduced themselves to us, our first instinct is to assemble a rough mental sketch of everyone we have ever known named the same.
