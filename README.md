@@ -35,6 +35,27 @@ For the year 2015, I divided the states region wise and created 5 more Gephi soc
 The data being used is made up of top 5 most common names used and subsequently the most common name is connected to its respective state with an edge having weight 5. 
 The least most common name is connected to state with an edge having weight 1.
 
+**Gephi - Most Common Male Names 2020**
+![image](https://user-images.githubusercontent.com/122759737/213982786-a9f6b02f-49a5-44f0-a447-12e91c18fa30.png)
+
+**Gephi - Most Common Male Names 2015**
+![image](https://user-images.githubusercontent.com/122759737/213982910-5c3f04fc-981e-4d31-aef0-6099fb9e5fae.png)
+
+**Gephi - Midwest 2015**
+![image](https://user-images.githubusercontent.com/122759737/213982992-93b6f040-6a26-4ff1-8549-209d690c933d.png)
+
+**Gephi - Southwest 2015**
+![image](https://user-images.githubusercontent.com/122759737/213983033-0ccfd8e8-e8b9-4b2f-a5a3-80fbca90a834.png)
+
+**Gephi - West 2015**
+![image](https://user-images.githubusercontent.com/122759737/213983083-cee6fc8b-8541-4724-a89e-4f50de69d644.png)
+
+**Gephi - Southeast 2015**
+![image](https://user-images.githubusercontent.com/122759737/213983142-016543b7-3c9f-490f-9481-aee495039649.png)
+
+**Gephi - Northeast 2015**
+![image](https://user-images.githubusercontent.com/122759737/213983186-c9727c55-926c-4929-ad4d-7ffc6b3b03e2.png)
+
 
 **Country Wide Analysis - 2015**
 ![image](https://user-images.githubusercontent.com/122759737/213981642-938ba5f7-366f-4db4-a012-7ef2c4d98b81.png)
@@ -55,10 +76,6 @@ Liam, Mason and Noah
 Jacob and Michael
 Alexander, Benjamin, Logan, Joseph and Lucas
 
-
-**Northeastern States Analysis - 2020**
-![image](https://user-images.githubusercontent.com/122759737/213982385-76cd0d12-5013-4901-838c-c15334fc4391.png)
-A gradual shift can be seen when Northeastern States are compared with the entire United States of America.
 
 
 **Conclusions**
