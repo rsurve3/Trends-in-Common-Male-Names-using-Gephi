@@ -9,15 +9,6 @@ Now with increasing usage of unique names, it is not that common for us to meet 
 However, in this project I have attempted to find the most common names in males for the years 2015 and 2020 so that this data can be used further for analysis.
 
 
-**Dataset - 2015**
-After doing analysis on 2020 Dataset, I decided to go with the year 2015.
-I believed these 5 years of difference between two data points would be sufficient for this study as changes in preference to name their child seemed to grow exponentially during this period.
-Just like 2020, I have used the top 5 most common names for my Gephi social network. However, I have also interacted with the rest of the names to come to my conclusion. 
-To avoid confusion and data discrepancy, I have only used one name in cases where two or more names were ranked the same in a certain state. The name was picked at random.
-Here is the link for the original 2015 dataset - https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States
-
-
-
 **Dataset - 2020**
 I have already worked on this dataset for my midterm. 
 It comprises with top 10 most common names in the 50 States and District of Columbia.
@@ -25,6 +16,15 @@ For the purpose of keeping the visualization clear, I have only worked with the 
 I found this data from the SSN website.
 However, I extracted the same data from Wikipedia website as there it was in a tabular form. 
 Here is the link for the dataset - https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States
+
+
+**Dataset - 2015**
+After doing analysis on 2020 Dataset, I decided to go with the year 2015.
+I believed these 5 years of difference between two data points would be sufficient for this study as changes in preference to name their child seemed to grow exponentially during this period.
+Just like 2020, I have used the top 5 most common names for my Gephi social network. However, I have also interacted with the rest of the names to come to my conclusion. 
+To avoid confusion and data discrepancy, I have only used one name in cases where two or more names were ranked the same in a certain state. The name was picked at random.
+Here is the link for the original 2015 dataset - https://en.wikipedia.org/wiki/List_of_most_popular_given_names_by_state_in_the_United_States
+
 
 **Observations about Data**
 I have created two Gephi social networks for the year 2015 and 2020.
