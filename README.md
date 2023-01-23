@@ -46,7 +46,6 @@ The top 5 most common names for the year are Liam, Noah, Mason, William and Jame
 ![image](https://user-images.githubusercontent.com/122759737/213981757-c6fcf1b9-0977-400e-b0dc-9ad230f7f3c7.png)
 Out of total 255 spots of 5 most common names in 51 United States of America (including District of Columbia) these 10 names comprises of 212 spots. 
 The top 5 most common names are  Liam, Noah, Oliver, William and Elijah.
-![image](https://user-images.githubusercontent.com/122759737/213981766-5d9c1e8d-565a-4860-9f43-459bfd21b10a.png)
 
 
 **Northeastern States Analysis - 2015**
@@ -58,7 +57,7 @@ Alexander, Benjamin, Logan, Joseph and Lucas
 
 
 **Northeastern States Analysis - 2020**
-![image](https://user-images.githubusercontent.com/122759737/213982152-0803363c-e0f2-4e21-a43f-f9201799c22b.png)
+![image](https://user-images.githubusercontent.com/122759737/213982385-76cd0d12-5013-4901-838c-c15334fc4391.png)
 A gradual shift can be seen when Northeastern States are compared with the entire United States of America.
 
 
